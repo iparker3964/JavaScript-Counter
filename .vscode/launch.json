@@ -5,12 +5,13 @@
     "version": "0.2.0",
     "configurations": [
 
+
+
         {
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            //"file": "c:\\Users\\iparker\\Documents\\Code\\JavaScript-Counter\\app.html",
-            "url": "http://127.0.0.1:5500/"
+            "file": "c:\\Users\\iparker\\Documents\\Code\\JavaScript-Counter\\app.html",
         }
     ]
 }
